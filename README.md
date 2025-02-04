@@ -4,8 +4,8 @@ Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Ha
 
 *Equal contribution.
 
-- 📜 Paper: [arXiv](https://pgasawa.github.io/papers/BARE.pdf)
-- 💻 Code: coming soon!
+📜 Paper: [arXiv](https://pgasawa.github.io/papers/BARE.pdf)  
+💻 Code: coming soon!
 
 ## 📋 TL;DR
 
@@ -21,8 +21,8 @@ LLMs need diverse, high-quality synthetic data to train well. But common methods
 
 We introduce Base-Refine (**BARE** 🐻), a method for combining base language models and instruction-tuned language models for better synthetic data generation.
 
-1️⃣ Generate diverse but potentially lower quality synthetic data with a base model.
-2️⃣ Refine each individual data point for quality with an instruction-tuned model.
+1️⃣ Generate diverse but potentially lower quality synthetic data with a base model.  
+2️⃣ Refine each individual data point for quality with an instruction-tuned model.  
 3️⃣ Fine-tune models for downstream tasks with the final dataset.
 
 Beyond generating training data, the idea of sampling diverse and high-quality responses from LLMs has both a large design space and broad applications -- such as creating evaluation data, generating trajectories, etc.
