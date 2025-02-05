@@ -56,6 +56,6 @@ Please feel free to reach out at aczhu@berkeley.edu & pgasawa@berkeley.edu!
   title={BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation},
   author={Alan Zhu and Parth Asawa and Jared Quincy Davis and Lingjiao Chen and Boris Hanin and Ion Stoica and Joseph E. Gonzalez and Matei Zaharia},
   year={2025},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2502.01697},
 } 
 ```
