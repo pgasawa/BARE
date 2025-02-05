@@ -4,7 +4,7 @@ Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Ha
 
 *Equal contribution.
 
-📜 Paper: [arXiv](https://pgasawa.github.io/papers/BARE.pdf)  
+📜 Paper: [https://arxiv.org/abs/2502.01697](https://arxiv.org/abs/2502.01697)  
 💻 Code: coming soon!
 
 ## 📋 TL;DR
