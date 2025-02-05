@@ -5,7 +5,8 @@ Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Ha
 *Equal contribution.
 
 📜 Paper: [https://arxiv.org/abs/2502.01697](https://arxiv.org/abs/2502.01697)  
-💻 Code: coming soon!
+💻 Code: coming soon!  
+𝕏 Thread: [Post](https://x.com/pgasawa/status/1887201938607120592)
 
 ## 📋 TL;DR
 
@@ -13,11 +14,22 @@ Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Ha
 - Base models → Higher diversity, lower quality.
 - **BARE** → Best of both worlds.
 
+## Problem
+
+Instruct-tuned models are getting better at following instructions and ‘reasoning’ every day, but they’re shockingly poor at generating diverse responses. LLMs need diverse, high-quality synthetic data to train well, and we hypothesize this shortcoming in common methods hinders downstream performance. 
+
+As a motivating example, when we sampled GPT-4o mini **100** times at temperature=1, we only got 4 distinct jokes (their quality can be debated):
+
+```
+1. Why did the scarecrow win an award? Because he was outstanding in his field!
+2. Why don't scientists trust atoms? Because they make up everything!
+3. Why don’t skeletons fight each other? They don’t have the guts!
+4. Why do seagulls fly over the ocean? Because if they flew over the bay, they’d be bagels!
+```
+
 ## 🐻 BARE
 
 ![image](assets/BARE.png)
-
-LLMs need diverse, high-quality synthetic data to train well. But common methods fail at diversity.
 
 We introduce Base-Refine (**BARE** 🐻), a method for combining base language models and instruction-tuned language models for better synthetic data generation.
 
