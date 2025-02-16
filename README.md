@@ -5,7 +5,7 @@ Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Ha
 *Equal contribution.
 
 📜 Paper: [https://arxiv.org/abs/2502.01697](https://arxiv.org/abs/2502.01697)  
-💻 Code: coming soon!  
+💻 Code: In this repo! (```bare/```)  
 𝕏 Thread: [Post](https://x.com/pgasawa/status/1887201938607120592)
 
 ## 📋 TL;DR
