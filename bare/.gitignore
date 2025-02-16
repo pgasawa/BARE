@@ -1,0 +1,10 @@
+.DS_STORE
+.env
+venv/
+__pycache__
+logs/*
+scratch/*
+local_model_cache/
+local_dataset_cache/
+pickles/*
+experiments/analysis/.cache/
