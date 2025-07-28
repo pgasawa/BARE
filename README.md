@@ -1,4 +1,4 @@
-# BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation
+# BARE: Leveraging Base Language Models for Few-Shot Synthetic Data Generation
 
 Authors: *Alan Zhu\*, Parth Asawa\*, Jared Quincy Davis, Lingjiao Chen, Boris Hanin, Ion Stoica, Joseph E. Gonzalez, Matei Zaharia*
 
@@ -65,7 +65,7 @@ Please feel free to reach out at aczhu@berkeley.edu & pgasawa@berkeley.edu!
 
 ```text
 @article{zhu2025bare,
-  title={BARE: Combining Base and Instruction-Tuned Language Models for Better Synthetic Data Generation},
+  title={BARE: Leveraging Base Language Models for Few-Shot Synthetic Data Generation},
   author={Alan Zhu and Parth Asawa and Jared Quincy Davis and Lingjiao Chen and Boris Hanin and Ion Stoica and Joseph E. Gonzalez and Matei Zaharia},
   year={2025},
   journal={arXiv preprint arXiv:2502.01697},
